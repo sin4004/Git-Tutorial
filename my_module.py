@@ -7,3 +7,5 @@ def sub(a, b):
 def mul(a, b):
     return a * b # 나누기
  
+def div(a, b):
+    return a//b
